@@ -1,0 +1,3 @@
+Task 2:
+- on db_status if getting "postgresql selected, no connection"
+-- Try "# msfdb delete" followed by "# PGPORT=5433 msfdb init"
